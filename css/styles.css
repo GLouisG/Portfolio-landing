@@ -1,0 +1,13 @@
+
+.imag1{
+    float :left;
+
+}
+.imag2{
+    float: right;
+    float: inline-end;
+}
+
+h1 {
+   text-align: center;
+}
