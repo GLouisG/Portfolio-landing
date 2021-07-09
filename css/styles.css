@@ -1,4 +1,8 @@
-
+body {
+    height: fit-content;
+    width: fit-content;
+    background-image: url("../images/backg.jpg");
+}
 .imag1{
     float :left;
 
