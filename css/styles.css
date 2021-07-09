@@ -7,6 +7,15 @@ body {
     text-align: center;
 }
 
+#locator { position: absolute; visibility: visible; left: 20px; top: 50px; z-index: 200; }
+
 .imag3 {
 float: left;
+}
+.welcome{
+    color: cornsilk;
+    text-align: center;
+}
+.card {
+    text-align: center;
 }
