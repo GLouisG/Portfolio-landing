@@ -13,10 +13,11 @@ body {
 .imag3 {
 float: left;
 }
-.welcome{
+h2{
     color: cornsilk;
     text-align: center;
 }
 .card {
     text-align: center;
+    background-color: darkgoldenrod;
 }
