@@ -1,17 +1,9 @@
 body {
-    height: fit-content;
-    width: fit-content;
-    background-image: url("../images/backg.jpg");
-}
-.imag1{
-    float :left;
-
-}
-.imag2{
-    float: right;
-    float: inline-end;
+    background: url("../images/pillars4.jpg");
+    background-size: cover;
 }
 
-h1 {
-   text-align: center;
+.jumbotron {
+    text-align: center;
 }
+
