@@ -6,8 +6,8 @@ body {
 
 .jumbotron {
     text-align: center;
-    background: url("https://image.freepik.com/free-photo/texture-beautiful-sandstone-background-design_55710-827.jpg");
-    background-size: cover;
+    background: url("../images/darkpap.png");
+    
 }
 
 #locator { position: absolute; visibility: visible; left: 20px; top: 50px; z-index: 200; }
