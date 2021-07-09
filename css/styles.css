@@ -12,9 +12,6 @@ body {
 
 #locator { position: absolute; visibility: visible; left: 20px; top: 50px; z-index: 200; }
 
-.imag3 {
-float: left;
-}
 h2{
     color: cornsilk;
     text-align: center;
@@ -24,5 +21,9 @@ h2{
     background-color: darkgoldenrod;
 }
 .boldee, .interests {
-    font-weight: bold;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6, h7{
+   font-weight: bolder; 
 }
